@@ -1,0 +1,12 @@
+# Java compiled files
+*.class
+/bin/
+/target/
+/build/
+/out/
+
+# IDE metadata
+.classpath
+.project
+.settings/
+.metadata/
